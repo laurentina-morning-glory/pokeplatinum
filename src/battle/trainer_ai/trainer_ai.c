@@ -3,10 +3,10 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/abilities.h"
 #include "constants/battle.h"
 #include "constants/items.h"
 #include "constants/species.h"
-#include "generated/abilities.h"
 
 #include "struct_decls/battle_system.h"
 #include "struct_defs/battle_system.h"

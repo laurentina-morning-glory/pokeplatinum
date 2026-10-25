@@ -1,6 +1,6 @@
 #include <nitro/types.h>
 
-#include "generated/abilities.h"
+#include "constants/abilities.h"
 #include "generated/pokemon_types.h"
 
 #include "applications/easy_chat/defs.h"

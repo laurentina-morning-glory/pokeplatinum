@@ -3,11 +3,11 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/abilities.h"
 #include "constants/charcode.h"
 #include "constants/heap.h"
 #include "constants/narc.h"
 #include "constants/pokemon.h"
-#include "generated/abilities.h"
 #include "generated/genders.h"
 #include "generated/moves.h"
 

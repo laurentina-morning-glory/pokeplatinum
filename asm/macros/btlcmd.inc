@@ -1,10 +1,10 @@
     .ifndef ASM_BATTLE_SCRIPT_INC
     .set ASM_BATTLE_SCRIPT_INC, 1
 
+#include "constants/abilities.h"
 #include "constants/battle.h"
 #include "constants/items.h"
 #include "constants/species.h"
-#include "generated/abilities.h"
 #include "generated/battle_subscripts.h"
 #include "generated/game_records.h"
 #include "generated/genders.h"

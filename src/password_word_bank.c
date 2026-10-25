@@ -2,9 +2,9 @@
 
 #include <nitro.h>
 
+#include "constants/abilities.h"
 #include "constants/heap.h"
 #include "constants/narc.h"
-#include "generated/abilities.h"
 #include "generated/pokemon_types.h"
 
 #include "easy_chat_words.h"

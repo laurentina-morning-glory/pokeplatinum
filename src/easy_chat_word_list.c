@@ -2,7 +2,7 @@
 
 #include <nitro.h>
 
-#include "generated/abilities.h"
+#include "constants/abilities.h"
 #include "generated/moves.h"
 #include "generated/species.h"
 #include "generated/text_banks.h"

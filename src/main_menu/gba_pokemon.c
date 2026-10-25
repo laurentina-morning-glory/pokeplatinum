@@ -3,10 +3,10 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/abilities.h"
 #include "constants/gba/pokemon.h"
 #include "constants/gba/species.h"
 #include "constants/species.h"
-#include "generated/abilities.h"
 
 #include "main_menu/gba_convert_string.h"
 #include "main_menu/gba_save.h"

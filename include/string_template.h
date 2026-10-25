@@ -1,7 +1,7 @@
 #ifndef POKEPLATINUM_STRING_TEMPLATE_H
 #define POKEPLATINUM_STRING_TEMPLATE_H
 
-#include "generated/abilities.h"
+#include "constants/abilities.h"
 #include "generated/genders.h"
 
 #include "struct_defs/pokemon.h"

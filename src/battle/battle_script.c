@@ -3,6 +3,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/abilities.h"
 #include "constants/battle.h"
 #include "constants/battle/battle_anim.h"
 #include "constants/heap.h"
@@ -12,7 +13,6 @@
 #include "constants/rtc.h"
 #include "constants/species.h"
 #include "constants/string.h"
-#include "generated/abilities.h"
 #include "generated/game_records.h"
 #include "generated/genders.h"
 

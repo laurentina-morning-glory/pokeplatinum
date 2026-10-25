@@ -4,6 +4,7 @@
 #include <nitro.h>
 #include <string.h>
 
+#include "constants/abilities.h"
 #include "constants/battle.h"
 #include "constants/game_options.h"
 #include "constants/heap.h"
@@ -12,7 +13,6 @@
 #include "constants/narc.h"
 #include "constants/pokemon.h"
 #include "constants/species.h"
-#include "generated/abilities.h"
 #include "generated/game_records.h"
 #include "generated/trainer_classes.h"
 

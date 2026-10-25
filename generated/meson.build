@@ -11,7 +11,6 @@ subproject('metang')
 metang_exe = find_program('metang', native: true)
 
 metang_generators = {
-    'abilities': { 'type': 'enum', 'tag': 'Ability' },
     'ai_action_choices': { 'type': 'enum', 'tag': 'AIActionChoice' },
     'ai_flags': { 'type': 'mask', 'tag': 'AIFlag', 'extra': ['--no-auto'] },
     'ai_load_type_targets': { 'type': 'enum', 'tag': 'AILoadTypeTarget' },

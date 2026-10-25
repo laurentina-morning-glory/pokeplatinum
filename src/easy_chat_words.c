@@ -2,9 +2,9 @@
 
 #include <nitro.h>
 
+#include "constants/abilities.h"
 #include "constants/heap.h"
 #include "constants/versions.h"
-#include "generated/abilities.h"
 #include "generated/moves.h"
 #include "generated/pokemon_types.h"
 #include "generated/text_banks.h"
