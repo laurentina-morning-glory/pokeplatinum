@@ -3,8 +3,8 @@
 #include <nitro.h>
 #include <string.h>
 
-#include "generated/accessories.h"
-#include "generated/backdrops.h"
+#include "constants/accessories.h"
+#include "constants/backdrops.h"
 
 #include "overlay022/struct_ov22_0225899C.h"
 
